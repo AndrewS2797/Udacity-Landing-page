@@ -1,5 +1,5 @@
 # Landing Page Project
-This project is for Udacity's Front End Nanodegree program Profissional web track.
+This project is for Udacity's Front End Nanodegree program profissional web track.
 
 
 ## Description
